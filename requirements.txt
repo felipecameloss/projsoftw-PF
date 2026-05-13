@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+
+python-jose[cryptography]
+requests
+
+pydantic
+python-dotenv
+
+pytest
+httpx
